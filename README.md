@@ -31,9 +31,9 @@ Louise wanted to know how different campaigns fared in relation to their launch 
 <img src= "Kickstarter_Challenge1/Resources/Outcomes_vs_Goals.png"> </img>
 
 - For *successful outcomes* in Plays category:
- - Overall sucessful percentage was less than 80%
- - Decrease to 20 percent for Goals range from `25000-29999`
- - Steap fall in the range of `45000-49999`, where the percentage was 0 percent
+  - Overall sucessful percentage was less than 80%
+  - Decrease to 20 percent for Goals range from `25000-29999`
+  - Steap fall in the range of `45000-49999`, where the percentage was 0 percent
 
 - For *Failed Outcomes* in Plays category:
   - It can be seen that failed outcomes is the opposite compared to successful outcomes
@@ -65,7 +65,7 @@ In addition,`45000 to 49999` displayed steap decrease for sucessful and steap in
  - Date and Year column could have been provided 
 
 - What are some other possible tables and/or graphs that we could create?
-###### Other Possibilities:
+### Other Possibilities:
  - Outcomes based on Pledged 
  - Outcomes based on deadlines for different categories 
 
