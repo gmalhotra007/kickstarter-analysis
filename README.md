@@ -13,7 +13,7 @@ Louise wanted to know how different campaigns fared in relation to their launch 
 
 ### Analysis based on Theatre Outcomes by Launch date:
 
-<img src= "Theatre_Outcomes_vs_Launch.png"></img>
+<img src= "Kickstarter_Challenge1/Resources/Theatre_Outcomes_vs_Launch.png"></img>
 
 - For *succesful outcomes* in Theatre Category:
   - There was a steap increase in the month of May with value:111 
@@ -28,7 +28,7 @@ Louise wanted to know how different campaigns fared in relation to their launch 
 
 ### Analysis based on Goals for the subcategory plays 
 
-<img src= "Outcomes_vs_Goals.png"></img>
+<img src= "Kickstarter_Challenge1/Resources/Outcomes_vs_Goals.png"> </img>
 
 - For *successful outcomes* in Plays category:
  - Overall sucessful percentage was less than 80%
